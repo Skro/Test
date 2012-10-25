@@ -18,7 +18,7 @@ public class AjouterPilotes extends JFrame implements ActionListener{
 	private JTextField jtf2 = new JTextField("Nom");
 	private JTextField jtf3 = new JTextField("Prenom");
 	
-
+	//surrender
 	
 
 	
